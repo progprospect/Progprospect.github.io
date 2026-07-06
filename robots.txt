@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://progprospect.com/sitemap.xml
+Sitemap: https://progprospect.github.io/sitemap.xml
