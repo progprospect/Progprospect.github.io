@@ -1,0 +1,27 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">ProgProspect favicon</title>
+  <desc id="desc">A premium blue and cyan geometric P mark on a dark background.</desc>
+  <rect width="64" height="64" rx="16" fill="#050816"/>
+  <rect x="1" y="1" width="62" height="62" rx="15" stroke="url(#border)" stroke-opacity="0.72" stroke-width="2"/>
+  <path d="M16 18H38.2C45.7 18 51 23 51 30.1C51 37.2 45.7 42.2 38.2 42.2H27.4V52H16V18Z" fill="url(#body)"/>
+  <path d="M27.4 27.2V33.1H37.7C39.8 33.1 41.1 31.9 41.1 30.1C41.1 28.4 39.8 27.2 37.7 27.2H27.4Z" fill="#050816"/>
+  <path d="M16 18H38.2C45.7 18 51 23 51 30.1C51 33.3 49.9 36.1 47.9 38.2C45.7 40.7 42.3 42.2 38.2 42.2H27.4" stroke="url(#shine)" stroke-width="3" stroke-linecap="round"/>
+  <path d="M16 47.8H27.4V52H16V47.8Z" fill="#22D3EE"/>
+  <defs>
+    <linearGradient id="body" x1="16" y1="16.5" x2="53.3" y2="47.6" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="0.48" stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="16" y1="18" x2="50.8" y2="42.5" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#BDF8FF" stop-opacity="0.88"/>
+      <stop offset="0.45" stop-color="#22D3EE" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0.72"/>
+    </linearGradient>
+    <linearGradient id="border" x1="5" y1="4" x2="58" y2="62" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="0.52" stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+  </defs>
+</svg>
